@@ -2,7 +2,7 @@
 
 //click yes btn
 function clickYesButton() {
-    alert('I love you too <3');
+    alert(ကျွန်တော်လည်း ချစ်ပါတယ် ခင်ဗျာ 💖));
 }
 
 //move button on hover
